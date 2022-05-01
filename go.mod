@@ -1,3 +1,3 @@
-module Go-encrypt
+module GoCrypt
 
 go 1.18
